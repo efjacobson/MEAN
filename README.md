@@ -1,2 +1,1 @@
-# mean
-it's mean
+# MERN for fun

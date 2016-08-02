@@ -1,3 +1,12 @@
+#BEGIN custom gitignore
+
+client/script/angular/angular.js
+server/route/database-credentials.js
+
+#END custom gitignore
+
+#BEGIN github provided node gitignore
+
 # Logs
 logs
 *.log
@@ -35,3 +44,5 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#END github provided node gitignore
